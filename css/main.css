@@ -1,0 +1,15 @@
+/*reseteando*/
+*{
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/* menú hamburguesa */
+.main-hamburger {
+  height: 22px;
+  width: 22px;
+}
+
+/* fin de menú hamburguesa */
